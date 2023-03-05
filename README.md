@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jasiaf
-- 👀 I’m interested in DATAscience and Machine learning
+- 👀 I’m interested in Financial Analysis, DATAscience and Machine learning
 - 🌱 I’m currently learning about data and economics
 - 💞️ I’m looking to collaborate on various data and analytic projects
 - 📫 How to reach me jasia.fazal@icloud.com
